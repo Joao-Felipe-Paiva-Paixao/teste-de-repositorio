@@ -1,6 +1,8 @@
-# teste de repositório
- apenas um repositório de teste, linha pós edição.
+# Teste de repositório
+ Apenas um repositório de teste, linha pós edição.
 
- o repositório foi publicado no github
+ O repositório foi publicado no github
 
- linha add pelo site do github
+ *Linha add pelo site do github*
+
+ Testando a linguagem **Markdown**
